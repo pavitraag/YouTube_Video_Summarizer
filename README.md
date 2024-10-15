@@ -6,15 +6,11 @@
 
 <div align="center">
 
-   ![GitHub contributors](https://img.shields.io/github/contributors/your-username/youtube-video-summarizer?style=for-the-badge&color=blue)
-   ![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/your-username/youtube-video-summarizer?style=for-the-badge&color=brightgreen)
-   ![GitHub PR Open](https://img.shields.io/github/issues-pr/your-username/youtube-video-summarizer?style=for-the-badge&color=aqua)
-   ![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/your-username/youtube-video-summarizer?style=for-the-badge&color=blue)
-   ![GitHub language count](https://img.shields.io/github/languages/count/your-username/youtube-video-summarizer?style=for-the-badge&color=brightgreen)
-   ![GitHub top language](https://img.shields.io/github/languages/top/your-username/youtube-video-summarizer?style=for-the-badge&color=aqua)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/youtube-video-summarizer?style=for-the-badge&color=blue)
+   ![GitHub language count](https://img.shields.io/github/languages/count/pavitraag/youtube-video-summarizer?style=for-the-badge&color=brightgreen)
+   ![GitHub top language](https://img.shields.io/github/languages/top/pavitraag/youtube-video-summarizer?style=for-the-badge&color=aqua)
+   ![GitHub last commit](https://img.shields.io/github/last-commit/pavitraag/youtube-video-summarizer?style=for-the-badge&color=blue)
    ![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
-   ![Github Repo Size](https://img.shields.io/github/repo-size/your-username/youtube-video-summarizer?style=for-the-badge&color=aqua)
+   ![Github Repo Size](https://img.shields.io/github/repo-size/pavitraag/youtube-video-summarizer?style=for-the-badge&color=aqua)
 
 </div>
 
