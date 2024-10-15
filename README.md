@@ -4,15 +4,7 @@
 
 </div>
 
-<div align="center">
 
-   ![GitHub language count](https://img.shields.io/github/languages/count/pavitraag/youtube-video-summarizer?style=for-the-badge&color=brightgreen)
-   ![GitHub top language](https://img.shields.io/github/languages/top/pavitraag/youtube-video-summarizer?style=for-the-badge&color=aqua)
-   ![GitHub last commit](https://img.shields.io/github/last-commit/pavitraag/youtube-video-summarizer?style=for-the-badge&color=blue)
-   ![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
-   ![Github Repo Size](https://img.shields.io/github/repo-size/pavitraag/youtube-video-summarizer?style=for-the-badge&color=aqua)
-
-</div>
 
 Welcome to the **YouTube Video Summarizer**, a powerful tool designed to help you effortlessly summarize YouTube videos by extracting their transcripts and generating concise summaries. Whether you’re a student looking to save time or a researcher wanting to digest content quickly, this project is here to enhance your video-watching experience!
 
